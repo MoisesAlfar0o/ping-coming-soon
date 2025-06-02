@@ -1,0 +1,21 @@
+:root {
+  --ft-family: 'Libre Franklin', sans-serif;
+  --ft-size: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 100dvh;
+  font-family: var(--ft-family);
+  font-size: var(--ft-size);
+}
