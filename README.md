@@ -7,8 +7,8 @@ This is a solution to the [Ping coming soon page](https://www.frontendmentor.io/
 
 ## Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-react-jG2yhn2sMw)
-- Live Site URL: [here](https://base-coming-soon-tau.vercel.app/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/ping-coming-soon-react-ts-6rmMv7ZzBT)
+- Live Site URL: [here](https://ping-coming-soon-peach.vercel.app/)
 
 
 ## Build with
