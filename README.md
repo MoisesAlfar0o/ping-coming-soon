@@ -1,6 +1,6 @@
 # - Ping coming soon page
 
-This is a solution to the [Ping coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). 
+This is a solution to the [Ping coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)
 
 ## Screenshot
 ![Design preview for the Ping coming soon page](./src/assets/design/desktop-design.jpg)
